@@ -1,5 +1,5 @@
 # Codenation-semana-7
-Notebook introdutório sobre features selection ( utilizando one hot encoder); introdução as técnicas de NLP (natural language processing); Detecção de outliers
+Notebook introdutório sobre features engineering ( utilizando one hot encoder); introdução as técnicas de NLP (natural language processing); Detecção de outliers
 
 # Feature engineering
 
